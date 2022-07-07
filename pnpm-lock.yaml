@@ -7,7 +7,6 @@ specifiers:
   '@commitlint/config-conventional': ^15.0.0
   '@vue/cli-plugin-babel': ^4.5.0
   '@vue/cli-service': ^4.5.0
-  autoprefixer: ^9.8.8
   axios: ^0.19.2
   chalk: 2.4.2
   compression-webpack-plugin: ^6.1.1
@@ -64,7 +63,6 @@ devDependencies:
   '@commitlint/config-conventional': 15.0.0
   '@vue/cli-plugin-babel': 4.5.19_37h7c3f5rt23wnlh2go6gqteti
   '@vue/cli-service': 4.5.19_z246pftzeg3clxsrkvcx5fdmt4
-  autoprefixer: 9.8.8
   chalk: 2.4.2
   compression-webpack-plugin: 6.1.1_webpack@4.46.0
   connect: 3.6.6
