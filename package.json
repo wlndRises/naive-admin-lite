@@ -8,8 +8,6 @@
     "lint": "pnpm run lint:js && pnpm run lint:prettier",
     "build:stage": "vue-cli-service build --mode staging",
     "dev": "vue-cli-service serve",
-    "inspect": "vue inspect > output.js",
-    "inspect:pro": "vue inspect --mode production > output.js",
     "lint-staged": "lint-staged",
     "lint:js": "eslint --ext \".{js,vue}\"  \"**/*.{js,vue}\"",
     "lint:prettier": "prettier --check **/*.{html,scss,js,vue,md}",
